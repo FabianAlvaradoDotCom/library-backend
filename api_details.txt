@@ -1,0 +1,7 @@
+DB user: library_read-write_user
+DB password: 8pDJYk07FdOZw1uk
+
+Connection string: mongodb+srv://library_read-write_user:8pDJYk07FdOZw1uk@cluster0-gxlcd.mongodb.net/test?retryWrites=true&w=majority
+
+Dependencies:
+  express, express-validator, mongoose
